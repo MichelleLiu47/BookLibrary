@@ -1,0 +1,1 @@
+C:\source\repos\BookLibrary\BookLibrary\obj\Release\BookLibrary.csproj.CoreCompileInputs.cache
